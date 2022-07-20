@@ -2,7 +2,7 @@
 
 The infamous sorting algorithm that first check if the array is sorted from beginning to end. If two nearby elements are not sorted, it shuffles the array and then check again if it is sorted.
 
-## Running this ~~abomination~~ Masterpiece on your Local Machine 
+## Running this ~~abomination~~ Masterpiece on Your Machine 
 
 1. First, ensure you have Python 3.6 and above installed because I used f string in the script.
 
